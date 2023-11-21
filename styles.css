@@ -1,0 +1,128 @@
+body {
+font-family: Arial, sans-serif;
+text-align: center;
+margin: 50px;
+}
+input {
+ padding: 10px;
+ margin: 10px;
+}
+
+button {
+padding: 10px;
+background-color: #4CAF50;
+color: white;
+border: none;
+cursor: pointer;
+}
+#resultado {
+margin-top: 20px;
+font-weight: bold;
+}
+.meta{
+    background-color: gray;
+}
+.cod{
+    width: 25%; /* Ancho del 25%*/
+    height: 50%; /* Altura del 10% */
+    text-align: center; /* Centra el texto horizontalmente */
+    border-radius: 30px; /* Bordes redondeados con radio de 30 píxeles */
+    margin-top: 10%; /* Margen superior del 10%  */
+    margin-left: 35%; /* Margen izquierdo del 35% */
+    color: white; /* Color de texto blanco */
+    background:red; 
+  
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+nav {
+    background-color: #4CAF50;
+    overflow: hidden;
+}
+
+nav a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+section {
+    padding: 20px;
+    margin: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.menu1 {
+    font-family: Arial, Helvetica, sans-serif; /* Familia de fuentes y estilo de texto */
+    background-color: white; /* Fondo blanco */
+  }
+  .menu {
+    list-style: none; /* Quita los marcadores de lista */
+    padding: 0; /* Sin relleno */
+    background: #092327; /* Fondo con color */
+    width: 90%; /* Ancho del 90% del elemento padre */
+    max-width: 1000px; /* Ancho máximo de 1000 píxeles */
+    margin: auto; /* Centra horizontalmente en el elemento padre */
+  }
+  .menu li a {
+    text-decoration: none; /* Quita la decoración de texto subrayado */
+    color: white; /* Color de texto blanco */
+    padding: 20px; /* Espacio interno de 20 píxeles */
+    display: block; /* Mostrar como bloque para ocupar todo el ancho del contenedor */
+  }
+  .menu li {
+    display: inline-block; /* Mostrar en línea con diseño en bloque */
+    text-align: center; /* Centra el texto horizontalmente */
+  }
+  .menu li a:hover {
+    background: BLUE; /* Cambia el fondo a un tono de naranja  */
+  }
+  .subtitulo3 {
+    text-align: center; /* Centra el texto horizontalmente */
+    font-family: 'Times New Roman', Times, serif; /* fuentes */
+    background: orange; /* Fondo de color naranja */
+  }
+  .INICIO {
+    text-align: center; /* Centra el texto horizontalmente */
+    font-family: 'Times New Roman', Times, serif; /* fuentes */
+    background: orange; /* Fondo de color naranja */
+  }
+  .contactos {
+    text-align: center; /* Centra el texto horizontalmente */
+    font-family: 'Times New Roman', Times, serif; /*fuentes */
+    background: orange; /* Fondo de color naranja */
+  }
+  .color{
+    background-color: aquamarine;
+  }
+  .fondo´{
+    background-color: aqua;
+  }
